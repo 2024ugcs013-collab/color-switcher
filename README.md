@@ -3,7 +3,7 @@
 A simple and responsive color switcher project built using **HTML, CSS, and JavaScript**.
 
 ## 🚀 Features
-- Five color boxes (Red, Blue, Yellow, Green, Black)
+- Five color boxes (Red, SkyBlue, Yellow, Green, pink)
 - Click on any box to change the background color
 - Clean and responsive UI
 - Beginner-friendly project
@@ -11,17 +11,12 @@ A simple and responsive color switcher project built using **HTML, CSS, and Java
 ## 🛠️ Tech Stack
 - HTML
 - CSS
-- JavaScript
-
-## 📸 Preview
-(Add a screenshot here later)
+- JavaScrip
 
 ## 📚 Learning Outcome
 - DOM selection
 - Event listeners
 - Data attributes
 - Basic UI layout using Flexbox
-
----
-
+- 
 Made by Diya Sahu
